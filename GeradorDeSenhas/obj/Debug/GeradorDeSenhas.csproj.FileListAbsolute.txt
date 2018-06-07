@@ -1,0 +1,8 @@
+c:\users\anockshadow\documents\visual studio 2015\Projects\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.exe
+c:\users\anockshadow\documents\visual studio 2015\Projects\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.pdb
+c:\users\anockshadow\documents\visual studio 2015\Projects\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.Form1.resources
+c:\users\anockshadow\documents\visual studio 2015\Projects\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.Properties.Resources.resources
+c:\users\anockshadow\documents\visual studio 2015\Projects\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.GenerateResource.Cache
+c:\users\anockshadow\documents\visual studio 2015\Projects\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.exe
+c:\users\anockshadow\documents\visual studio 2015\Projects\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.pdb
+c:\users\anockshadow\documents\visual studio 2015\Projects\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\Bunifu_UI_v1.5.3.dll
